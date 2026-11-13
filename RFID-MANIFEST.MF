@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.rfid.LoginPage
+Class-Path: mssql-jdbc-13.6.2.jre11.jar
+
